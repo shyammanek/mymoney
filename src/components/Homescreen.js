@@ -6,7 +6,6 @@ export default class Homescreen extends Component {
   render() {
     return (
       <View style={style.container}>
-       
        <View style={style.card} >
             <Text style={style.text}> Add spend</Text>
        </View>
@@ -35,6 +34,5 @@ const style = StyleSheet.create({
         margin: 15,
         borderRadius: 10,
         elevation: 5,
-
     },
 })
