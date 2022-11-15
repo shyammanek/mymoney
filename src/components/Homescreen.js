@@ -37,7 +37,4 @@ const style = StyleSheet.create({
         elevation: 5,
 
     },
-
-    }
-
 })
