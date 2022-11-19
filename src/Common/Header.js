@@ -1,10 +1,12 @@
 import { View, Text } from 'react-native'
 import React from 'react'
 
-export default function Header() {
+const Header=()=> {
   return (
     <View>
-      <Text>Header</Text>
+      <Text>Header Text</Text>
     </View>
   )
 }
+
+export default Header;

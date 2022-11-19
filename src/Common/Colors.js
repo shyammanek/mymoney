@@ -2,7 +2,7 @@ export const Colors = {
     white: '#fff',
     black: '#000',
     
-    myredTheme: '#ff0000',
+    myredTheme: '#8f2d56',
 
   textBlack: '#000',
   grey: '#fafafa',
